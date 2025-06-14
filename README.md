@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification using K-Nearest Neighbors (KNN)
+# 🌸 Iris Flower Classification using K-Nearest Neighbors (KNN) - WEEK 2 AI AND ML MINI PROJECT 
 
 This project demonstrates a simple machine learning application using the **Iris flower dataset** to classify flower species based on their physical attributes. The algorithm used is **K-Nearest Neighbors (KNN)**.
 
@@ -62,3 +62,9 @@ The model achieved an accuracy of over **95%** on the test set using `k = 3`.
 ## 📊 Output Sample
 
 ![image](https://github.com/user-attachments/assets/c1b54f26-0136-4e25-a984-94f083e75ae8)
+
+## 🙋‍♀️ Author
+Done by Kulsum S G
+University: B.S.A. Crescent Institute of Science and Technology
+Internship: AI and ML Week 2 Internship at NSP Nexus
+
